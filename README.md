@@ -1,4 +1,4 @@
-# Login Screen 
+# Login Screen 💻
 
 Este projeto é um exemplo de uma tela de login desenvolvida utilizando a biblioteca flet para criação de interfaces gráficas em Python. Aqui está uma descrição dos principais elementos do projeto:
 ## Descrição
